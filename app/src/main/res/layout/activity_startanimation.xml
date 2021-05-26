@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".startanimation">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:id="@+id/animationtitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        android:fontFamily="@font/luckiest_guy"
+        android:lineSpacingExtra="10dp"
+        android:text="If you think\n lifting is dangerous, \ntry being weak."
+        android:textAlignment="center"
+        android:textColor="#ffff"
+        android:textSize="35dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.421"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/animationimage"
+        android:layout_width="400dp"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-10dp"
+        android:rotation="10"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/animationpage" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/animationsubtitle"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="-2dp"
+        android:layout_marginTop="430dp"
+        android:layout_marginEnd="2dp"
+        android:fontFamily="@font/days_one"
+        android:text="Continue the struggle\nto get maximum output"
+        android:textAlignment="center"
+        android:textColor="#ffff"
+        android:textSize="17dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/animationprog"
+        android:background="@color/colorPrimaryDark"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0dp" />
+
+    <View
+        android:layout_width="170dp"
+        android:layout_height="50dp"
+        android:id="@+id/animationprogstop"
+        android:background="#000000"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/animationbtn"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="68dp"
+        android:layout_marginBottom="4dp"
+        android:text="START  WORKOUT"
+        android:textColor="#ffff"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

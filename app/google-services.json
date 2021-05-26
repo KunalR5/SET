@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174362550582",
+    "firebase_url": "https://personalinfo-83137.firebaseio.com",
+    "project_id": "personalinfo-83137",
+    "storage_bucket": "personalinfo-83137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174362550582:android:752bb0541c14b9680ad397",
+        "android_client_info": {
+          "package_name": "com.shinchannohara.personalinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174362550582-f4da767km0a8c37g4vc5gvgp7sodscja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1KD-IBHt_UwwQ2HYyEevLIxpgWVj1aPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174362550582-f4da767km0a8c37g4vc5gvgp7sodscja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

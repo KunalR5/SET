@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bicepsmain">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="What are your biceps ?"
+            android:textColor="#000000"
+            android:textSize="30dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="On a basic level, your biceps are a large muscle group located on the front section of your upper arm. The are we common refer to as the biceps are also known by the Latin name biceps brachii (meaning ‘two-headed muscle of the arm’). This muscle group’s primary function is to rotate the forearm and flex the elbow."
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/bangers"
+            android:text="Exercises"
+            android:textColor="#000000"
+            android:textSize="30dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText2" />
+
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="1. Alternating Incline Dumbbell Curl"
+            android:textColor="#000000"
+            android:textSize="22dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youTubePlayerView"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:autoPlay="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView8"
+            app:videoId="soxrZlIl35U" />
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="1.) On an incline bench, lie back with a dumbbell in each hand and palms facing forward.
+\n2.) Keeping your elbow and shoulder stationary, slowly lift one weight to the front of your shoulder.
+\n3.) Pause, squeezing your bicep at the top.
+\n4.) Slowly reverse the movement to return to start.
+\n5.) Repeat on the opposite side.
+"
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/youTubePlayerView" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="2. Seated Alternating Hammer Curl"
+            android:textColor="#000000"
+            android:textSize="22dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText3" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youTubePlayerView1"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:autoPlay="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView9"
+            app:videoId="AFWRIzDA5zI" />
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="1.) Sit on a 90-degree bench with a dumbbell in each hand, palms facing in toward your body and arms extended straight toward the floor.
+\n2.) Keeping your elbow and shoulder stationary, slowly lift one weight to the front of your shoulder.
+\n3.) Pause, squeezing your bicep at the top.
+\n4.) Slowly reverse the movement to return to start.
+\n5.) Repeat on the opposite side.
+
+"
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/youTubePlayerView1" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="3. Standing Barbell Curl"
+            android:textColor="#000000"
+            android:textSize="23dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText4" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youTubePlayerView2"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:autoPlay="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView10"
+            app:videoId="qf6KO7qKFRI" />
+
+        <EditText
+            android:id="@+id/editText5"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="1.) Standing tall, hold the barbell with a wide, underhand grip.
+\n2.) Starting with the bar at hip height, squeeze your core and contract your biceps to curl the bar up to shoulder height.
+\n3.) Keeping your elbows and shoulders stationary, slowly lift the weight to the front of your shoulders.
+\n4.) Pause, squeezing your biceps at the top
+\n5.) Slowly reverse the movement to return to start.
+\n6.) Repeat on the opposite side.
+"
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/youTubePlayerView2" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

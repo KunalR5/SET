@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".dietguidemain">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/luckiest_guy"
+                android:text="Follow Six Meals A Day Plan"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="27dp" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="375dp"
+                android:layout_height="250dp"
+                android:layout_marginLeft="18dp"
+                app:cardCornerRadius="15dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/diet" />
+
+            </androidx.cardview.widget.CardView>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FFFFFF"
+                android:clickable="false"
+                android:textAlignment="center"
+                android:cursorVisible="false"
+                android:focusable="false"
+                android:fontFamily="@font/days_one"
+                android:inputType="textMultiLine"
+                android:text="Keep fueling your body with multiple healthy snacks and meals but in small portions. This helps in keeping your blood sugar levels under check. Six meals a day plan also steadies your metabolism and improves the production of new muscles. "
+                android:textColor="#8E8989"
+                android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="Carbohydrates"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="27dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="250dp"
+            android:layout_marginLeft="18dp"
+            app:cardCornerRadius="15dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/carbs" />
+
+        </androidx.cardview.widget.CardView>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:textAlignment="center"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="Carbohydrates get a bad rap with some people. But research over the past 50 years has shown that carbs help your body during long and high-intensity exercise. In fact, the more active you are, the more carbs you need.\nPick healthy carbs like brown rice, quinoa, whole-grain bread and pasta, sweet potatoes, fruits, and vegetables."
+            android:textColor="#8E8989"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="proteins"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="27dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="250dp"
+            android:layout_marginLeft="18dp"
+            app:cardCornerRadius="15dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/protein" />
+
+        </androidx.cardview.widget.CardView>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:textAlignment="center"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="Protein is important because it provides the amino acids your body needs to build and repair muscle.\nGood sources of protein are poultry and fish. Those who prefer to avoid meat can try soybeans and legumes like beans, peanuts and chickpeas. Eggs, Greek yogurt, cheese and tofu are good sources, too."
+            android:textColor="#8E8989"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="fats"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="27dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="250dp"
+            android:layout_marginLeft="18dp"
+            app:cardCornerRadius="15dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/fats" />
+
+        </androidx.cardview.widget.CardView>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:textAlignment="center"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="Fat is a confusing topic for many people. But it's essential to a healthy diet. Fat provides energy and helps your body absorb vitamins. Some vitamins (like A, D, E and K) actually need fat to properly benefit your body.
+\n
+Be sure to pick unsaturated fats. Good sources are avocado, olive and canola oils, flaxseed and nuts."
+            android:textColor="#8E8989" />
+
+    </LinearLayout>
+
+</ScrollView>

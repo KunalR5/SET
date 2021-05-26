@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".shouldermain">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="What are Your Shoulder Muscles?"
+            android:textColor="#000000"
+            android:textSize="23dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="Your shoulder muscles break down into two separate groups: extrinsic muscles and intrinsic muscles. The former start at the torso and link to the shoulder bones, while the latter start above the upper torso (scapula, clavicle) and connect with the humerus."
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/bangers"
+            android:text="Exercises"
+            android:textColor="#000000"
+            android:textSize="35dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText2" />
+
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="1. Barbell Overhead Shoulder Press"
+            android:textColor="#000000"
+            android:textSize="22dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youTubePlayerView"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:autoPlay="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView8"
+            app:videoId="2yjwXTZQDDI" />
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="A barbell overhead shoulder press (aka barbell standing shoulder press) works not just your shoulders, but most of your body. That makes it a terrific core strengthener and mass builder, among other things."
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/youTubePlayerView" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="2. Seated Dumbbell Shoulder Press"
+            android:textColor="#000000"
+            android:textSize="22dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText3" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youTubePlayerView1"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:autoPlay="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView9"
+            app:videoId="qEwKCR5JCog" />
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="A proper deltoid workout simply isn’t complete without the seated dumbbell shoulder press. In fact, some say this exercise routine is an entire deltoid regimen unto itself, targeting the anterior, lateral, and posterior deltoid muscles (with an emphasis on the middle delts)."
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/youTubePlayerView1" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="3. Front Raise"
+            android:textColor="#000000"
+            android:textSize="22dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText4" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youTubePlayerView2"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:autoPlay="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView10"
+            app:videoId="-t7fuZ0KhDA" />
+
+        <EditText
+            android:id="@+id/editText5"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="You can use either a weight plate or barbell for this shoulder exercise, which targets the anterior delts. No matter what you decide to use, prepare for a seriously intense workout that brings no shortage of healthy pain. For that reason, don’t max out on the weight, as it will quickly turn healthy pain into unhealthy injury."
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/youTubePlayerView2" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

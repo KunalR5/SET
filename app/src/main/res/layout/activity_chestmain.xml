@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chestmain">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="What are your chest muscles ?"
+            android:textColor="#000000"
+            android:textSize="25dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="First and foremost, there’s the pectoralis major, a thick and broad muscle located under the breast that fans out across the chest. It contains at least six separate sets of muscle fibres and receives dual motor innervation from both the medial and lateral pectoral nerves. By pulling on the humerus, the pectoralis major enables lateral, vertical, or rotational motion."
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/bangers"
+            android:text="Exercises"
+            android:textColor="#000000"
+            android:textSize="35dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText2" />
+
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="1. Cable Cross-Over"
+            android:textColor="#000000"
+            android:textSize="25dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youTubePlayerView"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:autoPlay="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView8"
+            app:videoId="taI4XduLpTk" />
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="This is a popular chest workout for men at the gym that can be performed low-to-high or high-to-low. Both versions require a cable pulley machine. To execute low-to-high, set the machine to the lowest setting, attach a D-handle on both sides, and grab each handle with your palms facing up. Your feet should be shoulder-width apart, your back straight, your chest up, and your arms down and slightly bent at both sides. Next, bring both handles up and forward to eye level before returning them slowly to the starting position. Stick with lighter weights and lower reps.
+"
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/youTubePlayerView" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="2. Suspended Push-Up"
+            android:textColor="#000000"
+            android:textSize="25dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText3" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youTubePlayerView1"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:autoPlay="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView9"
+            app:videoId="ZHpBkiKG-a0" />
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="So you’ve mastered the push-up, but can you handle the suspended push-up? If you’re ready to try, you’ll need TRX straps, which put your hands and body in an unstable suspension. Keeping your feet shoulder-width apart, grab the handles, extend your arms in front of your chest, and put your body at an angle of 45-90 degrees to the floor. Tighten your core as lower yourself toward the floor, stopping when your hands are just outside your shoulders. Bring yourself back and do it again. Your elbows and head should remain in a neutral position throughout."
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/youTubePlayerView1" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/luckiest_guy"
+            android:text="3. Barbell Bench Press"
+            android:textColor="#000000"
+            android:textSize="25dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText4" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youTubePlayerView2"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:autoPlay="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView10"
+            app:videoId="rT7DgCr-3pg" />
+
+        <EditText
+            android:id="@+id/editText5"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#FFFFFF"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:fontFamily="@font/days_one"
+            android:inputType="textMultiLine"
+            android:text="Start by lying back on the bench with your feet flat on the ground and your eyes even with the bar. Use an overhand grip to grab the bar, keeping your arms a little more than shoulder-width apart. Next, fully extend your arms and take the bar off the rack so that it’s hovering directly over your chest. Keep your elbows in as you lower the bar, stopping when it touches the tippy-top of your chest (i.e. your nipples), and holding for one second. Now, thrust the bar up with considerable power until your arms are back in the starting position. Repeat.
+"
+            android:textColor="#807E7E"
+            android:textColorHint="#656363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/youTubePlayerView2" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
