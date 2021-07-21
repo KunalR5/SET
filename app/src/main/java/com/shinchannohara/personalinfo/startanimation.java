@@ -45,6 +45,7 @@ public class startanimation extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                finish();
                 startActivity(new Intent(startanimation.this,set.class));
             }
         });

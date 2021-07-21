@@ -4,6 +4,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
 import androidx.core.app.ActivityCompat;
+import androidx.viewpager.widget.ViewPager;
 
 import android.Manifest;
 import android.content.Context;
@@ -16,6 +17,7 @@ import android.location.LocationListener;
 import android.location.LocationManager;
 import android.net.Uri;
 import android.os.Bundle;
+import android.transition.Slide;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -53,12 +55,17 @@ public class set extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_set);
 
-        eg = (CardView) findViewById(R.id.eg);
+        ViewPager viewPager = (ViewPager)findViewById(R.id.slideViewPager);
+        SliderAdapter sliderAdapter = new SliderAdapter(this);
+
+        firebaseAuth = FirebaseAuth.getInstance();
+
+        viewPager.setAdapter(sliderAdapter);
+
+        /*eg = (CardView) findViewById(R.id.eg);
         gym = (CardView) findViewById(R.id.gyms);
         dg = (CardView) findViewById(R.id.dg);
         blog = (CardView) findViewById(R.id.blog);
-
-        firebaseAuth = FirebaseAuth.getInstance();
 
         blog.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -95,11 +102,11 @@ public class set extends AppCompatActivity {
             public void onClick(View v) {
                 startActivity(new Intent(set.this,exercise_guide.class));
             }
-        });
+        });*/
 
     }
 
-    private void getCurrentLocation() {
+    /*private void getCurrentLocation() {
         locationManager = (LocationManager)getSystemService(Context.LOCATION_SERVICE);
         locationListener = new LocationListener() {
             @Override
@@ -136,7 +143,7 @@ public class set extends AppCompatActivity {
                 startActivity(mapIntent);
             }
         }
-    }
+    }*/
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -162,8 +169,10 @@ public class set extends AppCompatActivity {
 
     private void logout()
     {
-        firebaseAuth.signOut();
-        finish();
-        startActivity(new Intent(set.this,StartActivity.class));
+        if(firebaseAuth.getCurrentUser()!=null) {
+            firebaseAuth.signOut();
+            finish();
+            startActivity(new Intent(set.this,StartActivity.class));
+        }
     }
 }

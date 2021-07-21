@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sprouts.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\sprouts.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bicepsmain.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_bicepsmain.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calenderactivity.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_calenderactivity.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_updateprofile.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_updateprofile.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\font_days_one.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\font\\days_one.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_post.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_carbs.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\carbs.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\font_bangers.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shoulder.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\shoulder.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_newssection.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_newssection.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sentiment_neutral_black_24dp.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\ic_sentiment_neutral_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chest.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\chest.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_banana.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\banana.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_row.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\news_row.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profileactivity.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_profileactivity.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chestmain.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_chestmain.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_milk.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\milk.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_greentea.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\greentea.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diet_icon.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\diet_icon.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eggwhite.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\eggwhite.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_set.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_shoulders.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\fragment_shoulders.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_animationpage1.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\animationpage1.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_eg_item.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\eg_item.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\anim_ltr.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\anim\\ltr.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gymic.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\gymic.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drop_down.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-xhdpi\\ic_drop_down.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_drop_down.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drop_down.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registrationactivity.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_registrationactivity.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exercise.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\exercise.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sentiment_dissatisfied_black_24dp.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\ic_sentiment_dissatisfied_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_blog_row.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\blog_row.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_diet.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\diet.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_outline.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\input_outline.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vegetables.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\vegetables.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fats.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\fats.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\anim_imgpage.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\anim\\imgpage.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_peanut.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\peanut.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_black_24dp.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gym.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\gym.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_image_black_24dp.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\ic_image_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_egmain.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_egmain.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_startanimation.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_startanimation.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\font_goblin_one.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\font\\goblin_one.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_legs.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\fragment_legs.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_spinner.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\custom_spinner.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_protein.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\protein.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slidernews.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\slidernews.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sliderexercise.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\sliderexercise.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sliderdiet.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\sliderdiet.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blog.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\blog.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sentiment_satisfied_black_24dp.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\ic_sentiment_satisfied_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_drop_down.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-mdpi\\ic_drop_down.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_exercise_guide.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_exercise_guide.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\menu_log_out.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\menu\\log_out.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sliderblog.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\sliderblog.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_layout.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\slide_layout.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drop_down.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-hdpi\\ic_drop_down.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_biceps.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\fragment_biceps.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addimage.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\addimage.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\anim_two.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\anim\\two.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_biceps.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\biceps.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shouldermain.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_shouldermain.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slidergym.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\slidergym.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_animationpage.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\animationpage.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_papaya.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\papaya.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gymicon.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable\\gymicon.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chest.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\fragment_chest.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\anim_three.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\anim\\three.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dietguidemain.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\fragment_dietguidemain.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_blogsingleactivity.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_blogsingleactivity.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dryfruit.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\dryfruit.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\font\\bungee.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\font_luckiest_guy.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\font\\luckiest_guy.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_roti.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\roti.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_egbg.jpg.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\egbg.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_leg.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\drawable-v24\\leg.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_password.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_update_password.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_passwordactivity.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\layout\\activity_passwordactivity.xml"
+    },
+    {
+        "merged": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\build\\intermediates\\res\\merged\\debug\\anim_one.xml.flat",
+        "source": "D:\\ANDROID PROJECTS\\PersonalInfo\\app\\src\\main\\res\\anim\\one.xml"
+    }
+]
