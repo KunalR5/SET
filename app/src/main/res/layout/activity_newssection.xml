@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".newssection">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/news_horizontalscroll"
+        android:scrollbars="none"
+        android:paddingTop="5dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/news_language_option"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:singleLine="true"
+            app:singleSelection="true">
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.MaterialComponents.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:checkable="true"
+                android:text="English"
+                android:textAlignment="center"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.MaterialComponents.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_marginLeft="5dp"
+                android:checkable="true"
+                android:text="Spanish"
+                android:textAlignment="center"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.MaterialComponents.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:checkable="true"
+                android:layout_marginLeft="5dp"
+                android:text="Italian"
+                android:textAlignment="center"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.MaterialComponents.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:checkable="true"
+                android:layout_marginLeft="5dp"
+                android:text="Russian"
+                android:textAlignment="center"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.MaterialComponents.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:checkable="true"
+                android:layout_marginLeft="5dp"
+                android:text="French"
+                android:textAlignment="center"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.MaterialComponents.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:checkable="true"
+                android:layout_marginLeft="5dp"
+                android:text="Dutch"
+                android:textAlignment="center"/>
+
+        </com.google.android.material.chip.ChipGroup>
+
+    </HorizontalScrollView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/news_result_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/news_horizontalscroll"
+        android:layout_marginTop="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>
